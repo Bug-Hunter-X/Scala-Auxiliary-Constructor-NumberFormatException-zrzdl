@@ -1,0 +1,3 @@
+# Scala Auxiliary Constructor NumberFormatException
+
+This repository demonstrates a potential `NumberFormatException` when using auxiliary constructors in Scala. The code attempts to create a `MyClass` object using a string which might not be a valid integer. This can lead to unexpected crashes or errors in your application if not handled appropriately. The solution showcases best practices for handling such exceptions.
